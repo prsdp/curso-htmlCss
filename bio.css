@@ -1,6 +1,14 @@
 h1{
 	font-size: 60px;
+	background-color: rgb(133,25,68);
+	color: #FFFFFF;
+	text-align: center;
+	font-family: "Arial", sans-serif;	 
 }
 h2{
-	font-size: 40px;
+	font-family: "Arial", "Baskerville";
+}
+p{
+	text-align: justify;
+	font-family: "Times New Roman", serif;
 }
