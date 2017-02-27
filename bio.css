@@ -10,12 +10,16 @@ main h1 {
 	text-align: center;
 	background-color: #851944;
 	color: #FFF;
+	padding: 20px;
 }
 p {
 	text-align: justify;
 }
 blockquote {
 	background-color: #D9E5E3;
+	padding: 16px;
+	border: 10px solid #C2CCCA;
+	width: 250px;
 }
 aside {
 	background-color: #3C1D3D;
