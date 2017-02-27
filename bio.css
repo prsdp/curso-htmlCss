@@ -40,4 +40,5 @@ main a{
 aside a{
 	color: inherit;
 	font-family: "Open Sans Condensed", sans-serif;
+	text-decoration: none;
 }
