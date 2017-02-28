@@ -86,7 +86,7 @@ h2{
 	/*Tamanho dos subtítulos como 30 pixels*/
 	font-size: 30px;
 }
-li{
+aside li{
 	/*<li> tivesse a altura e a largura correta automaticamente 
 	sem perder o comportamento do inline, de ficar em linha.*/
 	display: inline-block;
