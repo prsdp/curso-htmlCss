@@ -32,9 +32,10 @@ blockquote {
 	margin: 20px 40px;
 	box-sizing: border-box;
 }
-aside {
+.navegacao-site {
 	background-color: #3C1D3D;
 	color: #F2FFFC;
+	padding: 20px;
 	text-align: center;
 }
 .rodape {
