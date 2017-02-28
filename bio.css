@@ -86,9 +86,13 @@ h2{
 	/*Tamanho dos subtítulos como 30 pixels*/
 	font-size: 30px;
 }
-
 .icones-sociais li{
 	/*<li> tivesse a altura e a largura correta automaticamente 
 	sem perder o comportamento do inline, de ficar em linha.*/
 	display: inline-block;
+}
+article{
+	padding-bottom: 30px;
+	border-bottom: 1px solid #CCC;
+	margin-bottom: 20px;
 }
