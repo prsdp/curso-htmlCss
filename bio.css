@@ -50,3 +50,7 @@ aside a{
 blockquote, aside, footer{
 	padding: 20px;
 }
+main div{
+	width: 720px;
+	margin: auto;
+}
