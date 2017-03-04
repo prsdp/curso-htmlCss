@@ -17,6 +17,7 @@ main h1 {
 	border-bottom: 10px solid black;
 	/*Tamanho da fonte no título principal como 60 pixels*/
 	font-size: 60px;
+	text-transform: uppercase;
 }
 p {
 	text-align: justify;
