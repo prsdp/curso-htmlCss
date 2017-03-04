@@ -106,3 +106,19 @@ article{
 	text-align: center;
 	background-color: #E6E7E8;
 }
+.icones-sociais a{
+	width: 40px;
+    height: 40px;
+    display: block;
+    /*text-indent, que permite regular o recuo da primeira linha de um parágrafo*/
+    text-indent: -99999px;
+}
+.github{
+	background-image: url(github.png);
+}
+.twitter{
+	background-image: url(twitter.png);
+}
+.linkedin{
+	background-image: url(linkedin.png);
+}
