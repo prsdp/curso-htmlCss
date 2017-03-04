@@ -17,6 +17,10 @@ main h1 {
 	border-bottom: 10px solid black;
 	/*Tamanho da fonte no título principal como 60 pixels*/
 	font-size: 60px;
+	
+}
+.titulo-principal{
+	/*Transformando o texto do h1 em maiúsculas*/
 	text-transform: uppercase;
 }
 p {
@@ -45,6 +49,7 @@ blockquote {
 }
 nav a {
 	color: #F2FFFC;
+	text-transform: lowercase;
 }
 ul{
 	color: pink;
